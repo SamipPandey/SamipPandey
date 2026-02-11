@@ -6,7 +6,7 @@
 ---
 
 ## About me
-🏫 I'm Currently Studying At Kantipur Engineering College 
+<p>🏫 I'm Currently Studying At Kantipur Engineering College </p>
 📬 Contact: psamip55@icloud.com
 
 <p align="center">
