@@ -31,7 +31,7 @@
 ---
 
 ## Weekly Activity 🐍
-<img src="https://raw.githubusercontent.com/SamipPandey/SamipPandey/output/github-contribution-grid-snake-dark.svg" />
+![snake](https://raw.githubusercontent.com/SamipPandey/SamipPandey/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
