@@ -31,8 +31,11 @@
 </p>
 
 ---
+## Weekly Activity 🐍
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/[SamipPandey]/[SamipPandey]/output/github-contribution-grid-snake-dark.svg)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SamipPandey]&show_icons=true&theme=dark)
 
 </div>
