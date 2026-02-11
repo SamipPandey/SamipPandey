@@ -35,7 +35,4 @@
 
 ---
 
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SamipPandey&show_icons=true&theme=dark" />
-
 </div>
