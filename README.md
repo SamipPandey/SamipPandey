@@ -7,7 +7,7 @@
 
 ## About me
 <p>🏫 I'm Currently Studying At Kantipur Engineering College </p>
-📬 Contact: psamip55@icloud.com
+<p>📬 Contact: psamip55@icloud.com</p>
 
 <p align="center">
 <a href="https://discord.com/users/933607044576051302">
