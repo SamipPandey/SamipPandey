@@ -7,8 +7,8 @@
 
 ## About me
 <p>🏫 I'm Currently Studying At Kantipur Engineering College </p>
-<p>📬 Contact: psamip55@icloud.com</p>
-<p><a href="https://samippandey.netlify.app/">
+<p>📬 Contact: contact@psamip.com.np</p>
+<p><a href="psamip.com.np">
   Click to Know More!
 </a></p>
 <p align="center">
