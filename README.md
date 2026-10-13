@@ -1,58 +1,93 @@
  <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=200&section=header&text=Samip%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer&descSize=17&descAlignY=60" width="100%" alt="Samip Pandey — Computer Engineering Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f172a,75:172554,100:0284c7&text=Samip%20Pandey&fontColor=e0f2fe&fontSize=64&fontAlignY=40&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=60&animation=twinkling&stroke=38bdf8&strokeWidth=1" width="100%" alt="Samip Pandey — midnight blue animated banner" />
 
-  <p>
-    <a href="https://psamip.com.np/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/SamipPandey">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:contact@psamip.com.np">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=25&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&height=45&lines=Computer+Engineering+Student;Exploring+Linux+%26+Systems+Programming;Building+Projects%2C+One+Commit+at+a+Time;Learning+Open+Source+by+Doing" alt="Animated introduction" />
 
-  <h3>Building, learning, and exploring the world of software.</h3>
+  <br />
 
-  <p>
-    I'm a Computer Engineering student at Kantipur Engineering College, interested in software development, Linux, and building projects that help me learn by doing.
-  </p>
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Development-0f172a?style=for-the-badge&labelColor=020617" alt="Focus: Software Development" />
+  <img src="https://img.shields.io/badge/ENVIRONMENT-Linux-0f172a?style=for-the-badge&logo=linux&logoColor=7dd3fc&labelColor=020617" alt="Linux" />
+  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-0f172a?style=for-the-badge&labelColor=020617" alt="Always learning" />
 
-  <p>
-    <a href="https://discord.com/users/933607044576051302">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://instagram.com/psamip55">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/samip-pandey/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <br /><br />
+
+  <a href="https://psamip.com.np/">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact@psamip.com.np">
+    <img src="https://img.shields.io/badge/Get%20In%20Touch-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/SamipPandey">
+    <img src="https://img.shields.io/badge/GitHub-SamipPandey-111827?style=flat-square&logo=github&logoColor=7dd3fc" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/samip-pandey/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/psamip55">
+    <img src="https://img.shields.io/badge/Instagram-Follow-111827?style=flat-square&logo=instagram&logoColor=f472b6" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/933607044576051302">
+    <img src="https://img.shields.io/badge/Discord-Connect-111827?style=flat-square&logo=discord&logoColor=818cf8" alt="Discord" />
+  </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Studying Computer Engineering at **Kantipur Engineering College**.
-- 🐧 Enjoy exploring Linux and building tools that deepen my understanding of computers.
-- 💻 Interested in systems programming, Python development, and web technologies.
-- 🛠️ Learning through hands-on projects, experimentation, and open-source contributions.
-- 🌱 Always looking to improve my problem-solving and software engineering skills.
+  ## ✦ &nbsp; A LITTLE ABOUT ME &nbsp; ✦
+
+  *Curiosity drives the code. Consistency builds the craft.*
+
+  I'm a Computer Engineering student at **Kantipur Engineering College**, Nepal. I enjoy exploring how software works under the hood, experimenting with Linux, and turning ideas into practical projects.
+
+  <br />
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ◈ What I Explore
+
+- Systems programming with C and C++
+- Python development and computer vision
+- Web applications and backend fundamentals
+- Linux, terminals, and developer tools
+- Open-source software and collaborative learning
+
+    </td>
+    <td width="50%" valign="top">
+
+### ◈ My Philosophy
+
+- Learn by building real projects
+- Keep code readable and maintainable
+- Understand the fundamentals, not just the tools
+- Improve through feedback and experimentation
+- Stay curious and keep shipping
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
-
 <div align="center">
+
+## ⟡ &nbsp; TECHNOLOGIES &nbsp; ⟡
+
+<sub>Tools I'm learning and using in my projects</sub>
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="C, C++, Python, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="C, C++, Python, JavaScript, HTML and CSS" />
 
 ### Frameworks & Libraries
 
@@ -60,40 +95,7 @@
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux, Git, GitHub, Visual Studio Code" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [TinyShell](https://github.com/SamipPandey/TinyShell) | A small Linux shell exploring command execution and process management. | C, Linux |
-| [Hand Gesture Recognition](https://github.com/SamipPandey) | A computer vision project for real-time hand gesture detection. | Python, OpenCV, MediaPipe |
-| Image Authenticity Verification | A web project exploring image verification. | Django, JavaScript, HTML, CSS |
-| Byte-Token Compressor | A file compression and decompression experiment. | C++ |
-
-*Explore my repositories for source code, implementation details, and more projects.*
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SamipPandey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamipPandey&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-  ### 🐍 Contribution Journey
-
-  <img src="https://raw.githubusercontent.com/SamipPandey/SamipPandey/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux, Git, GitHub and VS Code" />
 
 </div>
 
@@ -101,16 +103,136 @@
 
 <div align="center">
 
-  ### 🤝 Let's Connect
+## ⟡ &nbsp; SELECTED PROJECTS &nbsp; ⟡
 
-  Interested in software development, Linux, or open source? Feel free to explore my work or reach out.
+<sub>A few things I've been building and exploring</sub>
 
-  **[🌐 Portfolio](https://psamip.com.np/) · [💻 GitHub](https://github.com/SamipPandey) · [📧 Email Me](mailto:contact@psamip.com.np)**
+</div>
 
-  <br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-  <img src="https://komarev.com/ghpvc/?username=SamipPandey&style=flat-square&color=38bdf8&label=Profile+Views" alt="Profile views" />
+### 🐚 TinyShell
 
-  <p><i>Keep learning. Keep building. Keep improving.</i></p>
+A small C-based shell project exploring Linux command execution and process management.
+
+**Stack:** C · Linux
+
+[↗ Explore repository](https://github.com/SamipPandey/TinyShell)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 👋 Hand-Gesture
+
+A computer vision project focused on recognizing hand gestures.
+
+**Stack:** Python
+
+[↗ Explore repository](https://github.com/SamipPandey/Hand-Gesture)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔍 Image Authenticity Verification
+
+A web-based project exploring image authenticity verification.
+
+**Stack:** Python · Django · JavaScript
+
+[↗ Explore repository](https://github.com/SamipPandey/Image-Authenticity-Verification)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🎮 SnakeGame-models
+
+A C++ repository related to a Snake Game project.
+
+**Stack:** C++
+
+[↗ Explore repository](https://github.com/SamipPandey/SnakeGame-models)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧩 Second-Semester-Project
+
+My second-semester C++ project work.
+
+**Stack:** C++
+
+[↗ Explore repository](https://github.com/SamipPandey/Second-Semester-Project)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📚 Second Semester — KEC
+
+Coursework and project work in my college repository.
+
+**Stack:** C++
+
+[↗ Explore repository](https://github.com/SamipPandey-kec/Second-semester)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⟡ &nbsp; GITHUB STATISTICS &nbsp; ⟡
+
+<img src="https://github-readme-stats.vercel.app/api?username=SamipPandey&show_icons=true&hide_border=true&bg_color=020617&title_color=7dd3fc&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" height="175" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamipPandey&layout=compact&hide_border=true&bg_color=020617&title_color=7dd3fc&text_color=cbd5e1" height="175" alt="Most-used languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamipPandey&hide_border=true&background=020617&ring=38bdf8&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=94a3b8" width="80%" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 &nbsp; THE CONTRIBUTION JOURNEY
+
+<img src="https://raw.githubusercontent.com/SamipPandey/SamipPandey/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✧ &nbsp; LET'S BUILD SOMETHING MEANINGFUL &nbsp; ✧
+
+*Turning curiosity into code, and ideas into experience.*
+
+<br />
+
+<a href="https://psamip.com.np/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc" alt="Portfolio" />
+</a>
+<a href="mailto:contact@psamip.com.np">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-0f172a?style=for-the-badge&logo=gmail&logoColor=fca5a5" alt="Email" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=SamipPandey&style=flat-square&color=0e7490&label=PROFILE+VISITORS" alt="Profile visitor count" />
+
+<br />
+
+<sub>Designed with curiosity, crafted with care. ✦</sub>
 
 </div>
